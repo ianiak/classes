@@ -106,7 +106,11 @@ footer{
 section img{
     height: 600px;
 }
+.text{
+    margin: 40px 170px;
+    padding-bottom: 150px;
 }
+
 
 
 
@@ -124,6 +128,9 @@ section img{
     }
     #imgnav img{
         width: 100%;
+    }
+    section img{
+        height: 200px;
     }
     .text-overlay {
         position: absolute;
@@ -154,6 +161,10 @@ section img{
     background-color: white;
     border: 1px solid;
     
+    }
+    .text{
+        margin: 40px 20px;
+        padding-bottom: 40px;
     }
     
     section{
